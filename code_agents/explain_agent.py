@@ -1,6 +1,6 @@
 import requests
 
-GROQ_API_KEY = "GROQ_API_KEY"
+GROQ_API_KEY = "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"
 
 def explain_code(code: str) -> str:
     url = "https://api.groq.com/openai/v1/chat/completions"

@@ -151,16 +151,4 @@ curl -X POST http://localhost:8000/explain-code \
 
 ---
 
-## Security Notice
 
-**Warning:** Never commit sensitive API keys to public repositories. Use environment variables in production.
-
----
-
-## License
-
-MIT
-
----
-
-Feel free to copy and adjust as necessary for your project!
